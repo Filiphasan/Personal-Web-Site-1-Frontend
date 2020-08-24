@@ -136,6 +136,9 @@ footer a:hover{
     border-radius: 10px;
 }
 #about .aboutInfo h1{
+    font-size: 55px;
+}
+#about .aboutInfo .isim{
 font-size: 55px;
 text-decoration-line: underline;
 }
