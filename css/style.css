@@ -99,11 +99,17 @@ header {
     color: #76ead7 !important;
 
 }
+.carousel-indicators li{
+    background-color: #1a1a2e !important;
+}
 /*FOOTER*/
 footer{
     margin-top: 200px;
     border-top: #4f8a8b solid 8px;
     background-color: #1a1a2e;
+}
+footer .adress{
+    color: #76ead7;
 }
 footer a{
     color: #76ead7;
@@ -170,6 +176,10 @@ text-decoration-line: underline;
 }
 #egitimler .egitim{
     border-left: #1a1a2e dashed 5px;
+}
+/*İLGİ ALANLARI*/
+.interested p{
+    font-size: 22px;
 }
 /*MAP*/
 .map{
