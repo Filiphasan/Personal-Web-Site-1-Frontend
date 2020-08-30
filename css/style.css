@@ -305,7 +305,10 @@ text-decoration-line: underline;
     color: #1a1a2e;
     background-color: #76ead7;
 }
-
+#yorumlar{
+    border: #1a1a2e solid 4px;
+    border-radius: 6px;
+}
 
 
 
