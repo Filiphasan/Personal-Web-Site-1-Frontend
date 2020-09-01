@@ -309,8 +309,18 @@ text-decoration-line: underline;
     border: #1a1a2e solid 4px;
     border-radius: 6px;
 }
-
-
+/*MORE*/
+#more .cerceve{
+    margin-top: 5%;
+    background-color: #76ead7;
+    color: #1a1a2e;
+    border: #1a1a2e solid 8px;
+    border-radius: 15px;
+}
+#more .aciklama{
+    padding: 50px 50px 100px 50px;
+    font-size: 1.5rem;
+}
 
 
 
